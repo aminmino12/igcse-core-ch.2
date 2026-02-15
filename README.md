@@ -1,1 +1,1 @@
-# igcse-core-ch.2
+# igcse-core-ch2
